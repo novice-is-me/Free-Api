@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Tesla",
+        "noOfEmployees": 3000,
+        "ceo": "Elon",
+        "rating": 4.5
+    },
+    {
+        "name": "Gucci",
+        "noOfEmployees": 5000,
+        "ceo": "Regina",
+        "rating": 4.3
+    },
+    {
+        "name": "Casio",
+        "noOfEmployees": 5000,
+        "ceo": "Charelle",
+        "rating": 5
+    }
+]
